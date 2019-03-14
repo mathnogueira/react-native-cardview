@@ -1,18 +1,18 @@
 {
-  "name": "react-native-cardview",
+  "name": "react-native-cardview-sdk-28",
   "description": "A react native card view",
   "main": "index.js",
   "author": "Kishan Vaghela (kishanjvaghela@gmail.com)",
   "license": "MIT",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kishanjvaghela/react-native-cardview.git"
+    "url": "https://github.com/mathnogueira/react-native-cardview-sdk-28.git"
   },
   "bugs": {
-    "url": "https://github.com/Kishanjvaghela/react-native-cardview/issues"
+    "url": "https://github.com/mathnogueira/react-native-cardview-sdk-28/issues"
   },
-  "homepage": "https://github.com/Kishanjvaghela/react-native-cardview",
+  "homepage": "https://github.com/mathnogueira/react-native-cardview-sdk-28",
   "keywords": [
     "react",
     "react-native",
